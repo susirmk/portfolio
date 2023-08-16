@@ -42,6 +42,10 @@ I am a Junior Software Tester with strong attention to detail. Since I started t
 (2023) From The Beginning
 <p>online courses by Ozan Iihan, Udemy</p>
 <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-2700f9b3-c68c-4ca8-abe3-99f2d63f52e5.jpg">Link to the certificate</a></li>
+<li>Postman Tutorial: Getting Started with API Testing
+<p>online courses by Praveenkumar Boun, Udemy</p>
+<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-94a0f090-73b7-4800-a80d-d2465f8c0712.pdf">Link to the certificate</a></li>
+
 </ul>
 
 
