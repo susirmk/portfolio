@@ -27,6 +27,18 @@ I am a Junior Software Tester with strong attention to detail. Since I started t
 <li>Result oriented</li>
 <li>Team Player</li>
 </ul>
+<h1>Courses</h1>
+<ul>
+<li>Agile Scrum : An Overview
+<p>online courses by Praveenkumar Bouna, Udemy</p>
+<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-7876ee66-5ac8-4773-9f9e-5c6b37cd25df.pdf">Link to the certificate</a>
+</li>
+<li>ISTQB Mobile Application Testing - Become a Mobile Tester
+<p>online courses by Tarek Roshdy, Udemy</p>
+<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-0541971a-f0dd-45db-8ab7-b866587ac6c4.pdf">Link to the certificate</a></li>
+
+</ul>
+
 
 
 - 📫 How to reach me **m.k.s.gokula@gmail.com**
