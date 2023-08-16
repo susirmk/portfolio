@@ -33,10 +33,15 @@ I am a Junior Software Tester with strong attention to detail. Since I started t
 <p>online courses by Praveenkumar Bouna, Udemy</p>
 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-7876ee66-5ac8-4773-9f9e-5c6b37cd25df.pdf">Link to the certificate</a>
 </li>
+
 <li>ISTQB Mobile Application Testing - Become a Mobile Tester
 <p>online courses by Tarek Roshdy, Udemy</p>
 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-0541971a-f0dd-45db-8ab7-b866587ac6c4.pdf">Link to the certificate</a></li>
 
+<li>Mobile Testing Masterclass
+(2023) From The Beginning
+<p>online courses by Ozan Iihan, Udemy</p>
+<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-2700f9b3-c68c-4ca8-abe3-99f2d63f52e5.jpg">Link to the certificate</a></li>
 </ul>
 
 
